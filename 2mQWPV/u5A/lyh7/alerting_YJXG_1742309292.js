@@ -49,7 +49,6 @@ module.exports = [
   },
   {
     name: 'react/jsx-runtime',
-    // @ts-ignore - not sure why but flat config is typed as a maybe?
     ...reactPlugin.configs.flat['jsx-runtime'],
   },
   {
