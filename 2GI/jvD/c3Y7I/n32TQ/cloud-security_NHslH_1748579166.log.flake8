@@ -8,7 +8,6 @@ select =
 statistics = True
 show-source = True
 max-line-length = 127
-max-complexity = 10
 exclude =
     .git,
     __pycache__,
